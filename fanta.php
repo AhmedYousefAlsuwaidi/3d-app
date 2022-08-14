@@ -121,7 +121,7 @@ foreach($rows as $row => $value){
             <div class="container">
               <div class="copyright"><br>
                 <p class="text-white">These web pages are submitted as part requirement for the degree of BSc Computer Science and Artificial Intelligence at the University of Sussex. They are the product of my own labour except where indicated in the web page content. These web pages or contents may be freely copied and distributed provided the source is acknowledged
-                <strong><span> <a href="https://github.com/AhmedYSuwaidi/3dapp.git">https://github.com/AhmedYSuwaidi/3dapp.git</a></span></strong></p>
+                <strong><span> <a href="https://github.com/AhmedYousefAlsuwaidi/3d-app.git">https://github.com/AhmedYousefAlsuwaidi/3d-app.git</a></span></strong></p>
                 </div>
             </div>
           </nav>            
