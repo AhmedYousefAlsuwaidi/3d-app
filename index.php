@@ -88,13 +88,14 @@ foreach($rows as $row => $value){
               ?>
               <p class = "text-justify">Coca-Cola, or Coke, is a carbonated soft drink manufactured by the Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith in Atlanta, Georgia.</p>
               <?php } ?>
-              <h4>Camera View</h4>
+            <!--  <h4>Camera View</h4>
               <button type="button" class="btn btn-primary">top</button>
               <button type="button" class="btn btn-secondary">bottom</button>
               <button type="button" class="btn btn-info">left</button>
               <button type="button" class="btn btn-warning">right</button>
               <button type="button" class="btn btn-success">zoom in</button>
               <button type="button" class="btn btn-danger">zoom out</button>          
+            !-->
           </div>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <div class="col-2">

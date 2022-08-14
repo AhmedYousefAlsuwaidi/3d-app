@@ -86,13 +86,14 @@ foreach($rows as $row => $value){
               ?>              
               <p class = "text-justify">Sprite is a colorless, lemon and lime-flavored soft drink created by The Coca-Cola Company. Sprite comes in multiple flavors, including cranberry, cherry, grape, orange, tropical, ginger, and vanilla. Sprite was created to compete primarily against Keurig Dr Pepper's 7 Up.</p>
               <?php } ?>
-              <h4>Camera View</h4>
+        <!--      <h4>Camera View</h4>
               <button type="button" class="btn btn-primary">top</button>
               <button type="button" class="btn btn-secondary">bottom</button>
               <button type="button" class="btn btn-info">left</button>
               <button type="button" class="btn btn-warning">right</button>
               <button type="button" class="btn btn-success">zoom in</button>
-              <button type="button" class="btn btn-danger">zoom out</button>      
+              <button type="button" class="btn btn-danger">zoom out</button>
+        !-->      
           </div>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <div class="col-2">

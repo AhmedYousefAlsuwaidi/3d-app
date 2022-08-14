@@ -87,13 +87,14 @@ foreach($rows as $row => $value){
               ?>
               <p class = "text-justify">Fanta is a brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith. There are more than 200 flavors worldwide. Fanta originated in Germany as a Coca-Cola substitute in 1940 due to the American trade embargo of Nazi Germany which affected the availability of Coca-Cola ingredients.</p>
               <?php } ?>
-              <h4>Camera View</h4>
+          <!--    <h4>Camera View</h4>
               <button type="button" class="btn btn-primary">top</button>
               <button type="button" class="btn btn-secondary">bottom</button>
               <button type="button" class="btn btn-info">left</button>
               <button type="button" class="btn btn-warning">right</button>
               <button type="button" class="btn btn-success">zoom in</button>
-              <button type="button" class="btn btn-danger">zoom out</button>          
+              <button type="button" class="btn btn-danger">zoom out</button>   
+          !-->       
           </div>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <div class="col-2">
