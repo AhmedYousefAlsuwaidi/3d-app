@@ -20,11 +20,57 @@ foreach($rows as $row => $value){
     <script src="assets/js/jquery-3.5.1.min.js"></script>
   </head>
   <body>
+    <style>
+      .logo{
+        height: 35px;
+        width: 120px;
+        background: repeating-linear-gradient(
+        45deg,
+        #ffff,
+        #ffff 3px,
+        #808080 3px,
+        #808080 5px
+      );
+      text-align: center;
+      font-size: 22px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      color: red;
+      }
+      .logo-1{
+        height: 35px;
+        width: 120px;
+        text-align: center;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        background-color: red;
+        color: white;
+      }
+      .logo-2{
+        height: 35px;
+        width: 120px;
+        text-align: center;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: green;
+      }
+      .logo-3{
+        height: 35px;
+        width: 120px;
+        text-align: center;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: orange;
+      }
+    </style>
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-              
-              <img src="assets/img/coca-cola.png" alt="Coca Cola" height="40px" width="100px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="logo-1">Coca Cola</div>
+            <!--  <img src="assets/img/coca-cola.png" alt="Coca Cola" height="40px" width="100px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; !-->
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
@@ -45,9 +91,14 @@ foreach($rows as $row => $value){
                 </ul>
               </div>
             </div>
+      <!--      <div class="logo-1">Coca Cola</div>
+            <div class="logo-3">Fanta</div>
+            <div class="logo-2">Sprite</div>
+            !-->
             <img src="assets/img/coca-cola.png" height="40px" width="70px" class="img-fluid" alt="">
             <img src="assets/img/sprtie.png" height="40px" width="70px" class="img-fluid" alt="">
             <img src="assets/img/fanta.png" height="40px" width="70px" class="img-fluid" alt="">
+ 
           </nav><br>
           <div class="row">
           <div class="col-8">
